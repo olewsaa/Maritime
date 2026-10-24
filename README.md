@@ -2,5 +2,12 @@
 
 ## GPX files
 
-### Norskekysten sommeren 2026
+### Tur langs norskekysten
+Logget turen oppover langt norskekysten sommeren 2026.
+
+
+### Havner langs norskekysten
+
+
+
 
