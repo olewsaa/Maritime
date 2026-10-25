@@ -12,7 +12,7 @@ en veldig trygg kombinasjon.
 ### Tur langs norskekysten
 Logget turen oppover langs norskekysten sommeren 2026,
 filen *Norskekysten-2026.gpx* er ruta fra Holmestrand til 
-Tromsø.
+Tromsø. Alle anløpte havner er med. 
 
 
 ### Havner 
